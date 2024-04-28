@@ -1,0 +1,38 @@
+.question-selector-container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .question-selector-header {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .question-item {
+    margin-bottom: 10px;
+  }
+  
+  .question-checkbox {
+    margin-right: 10px;
+  }
+  
+  .start-test-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .start-test-button:hover {
+    background-color: #45a049;
+  }
